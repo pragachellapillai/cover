@@ -69,9 +69,7 @@ p{font-size: 200%;
     width: 35%;
     background-color: aqua;
 }
-/* *{
-    background-color: rgb(167, 58, 58);
-} */
+
 hr{
     color: orange;
 }
