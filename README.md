@@ -31,9 +31,105 @@ Insert the images in their appropriate places.
 Publish the website in the LocalHost.
 
 ## PROGRAM:
+```
+<html>
+    <head>
+        <title>
+            HTML page
+        </title>
+        <style>
+img{
+    height: 60%;
+    width:25%;
+    /* position: absolute;
+    left:63%;
+    top:64%; */
+    float: right;
+    /* opacity: 70%; */
 
+}
+h1{
+    font-size: 400%;
+}
+p{font-size: 200%;
+
+}       
+.container{
+    color: rgb(229, 229, 244);
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    padding: 25px;
+    background-image: url(./background.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    color: rgb(227, 217, 217);
+ 
+    height: 90%;
+    width: 35%;
+    background-color: aqua;
+}
+/* *{
+    background-color: rgb(167, 58, 58);
+} */
+hr{
+    color: orange;
+}
+.center
+{
+    height: 35%;
+    align-items: flex-end;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+.details
+{
+    height: 10%;
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+}
+#hr1
+{
+    width: 20%;
+    margin-left: 0.2%;
+    color: blue;
+}
+
+
+        </style>
+    </head>
+<body>
+<div class="container">
+    <h2> SEC INSIGHT</h2>
+    <hr id="hr1">
+    <h1>Web Design Playground: HTML & CSS the Interactive Way
+    </h1>
+    <p> In this project-based book, you'll use a custom online workspace, the book's companion Playground, to design websites, product pages, photo galleries, and more.
+
+    </p>
+    <div class ="center">
+        <p>
+            Second Edition            
+        </p>    
+        <img src="harshitha.jpg">
+    </div>
+    <hr>
+    <div class="details">
+        <p>PRAGAHARSHITHA NC</p>
+        <p>SEC</p>
+    </div>    
+</div>    
+</body>
+</html>
+
+
+```
 
 ## OUTPUT:
+![Screenshot 2024-04-16 113326](https://github.com/pragachellapillai/cover/assets/148254952/d4a90a60-8d4f-4672-9e1f-79bfc17ad085)
 
 
 ## RESULT:
